@@ -6,6 +6,7 @@ import java.util.List;
 /*** 
  * VM Args£º-Xms20m -Xmx20m -XX:+HeapDumpOnOutOfMemoryError -XX:HeapDumpPath=./hprof/
  * @author wenchao
+ * test
  * */ 
 
 public class HeapOOM {
